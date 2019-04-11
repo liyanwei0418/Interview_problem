@@ -1,0 +1,10 @@
+4-10
+    mysql 优化  分表分库  mysql数据量阈值 innodb  myisam 区别
+
+    消息队列
+
+    分布式锁
+
+    redis 
+
+    设计模式
