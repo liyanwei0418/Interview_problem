@@ -5,6 +5,6 @@
 
     分布式锁
 
-    redis 
+    redis aof和rdb 恢复数据区别
 
     设计模式
